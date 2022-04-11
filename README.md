@@ -23,6 +23,7 @@ A bookworm's delight!  FaveBooks is a JavaScript-based application that visitors
 * Concurrently
 * CSS
 * Express
+* Google API
 * GraphQL
 * Heroku
 * HTML
