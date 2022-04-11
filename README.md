@@ -38,7 +38,7 @@ A bookworm's delight!  FaveBooks is a JavaScript-based application that visitors
 * React Router
 
 ## **Website**
-[FaveBooks](https://fave-books.herokuapp.com/)
+<a href="https://fave-books.herokuapp.com/" target="_blank">FaveBooks</a>
 
 ## **Usage**
 ***Note: Using Chrome is highly recommended for the optimal experience***
