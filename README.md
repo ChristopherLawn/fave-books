@@ -27,7 +27,6 @@ A bookworm's delight!  FaveBooks is a JavaScript-based application that visitors
 * GraphQL
 * Heroku
 * HTML
-* IndexedDB
 * JavaScript
 * JSON Web Token
 * JWT Decode
